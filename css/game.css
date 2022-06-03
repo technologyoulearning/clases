@@ -1,0 +1,90 @@
+body{
+	color:rgb(210,160,110);
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+
+.navbar{
+	margin-bottom: 0px;
+
+}
+
+.logo{
+	max-width: 100px;
+	
+}
+.logocss{
+	max-width: 70px;
+}
+.logocss:hover{
+	width: 12%;
+   }
+.logo:hover{
+ width: 15%;
+}
+.list-group-item:hover{
+background-color: rgb(28, 28, 63);
+}
+
+.tecnologia{
+	box-shadow:0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+	padding: 2%;
+	max-height: 800px;
+	min-height: 500px;
+}
+img.publi{
+	width: 100%;
+}
+footer{
+	background-color: rgb(50,50,50); 
+
+	padding: 2%;
+	font-size: 130%;
+}
+.dropdown-menu{
+	background-color: rgb(50,50,50); 
+	color:white;
+}
+
+a{
+	text-decoration: none;
+	
+	color:rgb(210,160,110);
+}
+a:link{
+	color:rgb(210,160,110);
+	text-decoration: none;
+}
+a:hover{
+	font-size: 130%;
+}
+.copi{
+	font-size: 90%;
+}
+
+
+
+#profile{
+	padding: 1%;
+  	background-color:whitesmoke;
+	min-height: 200px;
+	border-radius: 50px 20px 50px 20px;
+	
+}
+.profile{
+	min-height: 220px;
+	background-color:rgb(50,50,50);
+	padding: 2%;
+		
+}
+.about-me{
+	color: rgb(50,50,50);
+	font-size: 18px;
+	font-weight: bold;
+}
+.about-me-contact{
+	color: rgb(210,160,110);
+	font-size: 20px;
+	font-weight: bold;
+}
